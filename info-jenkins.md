@@ -15,7 +15,7 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 **Start Jenkins**
-```
+
 **Enable jenkins service:**
 ```
 sudo systemctl enable jenkins
@@ -24,7 +24,7 @@ sudo systemctl enable jenkins
 ```
 sudo systemctl start jenkins
 ```
-```
+
 You can check the status of the Jenkins service using the command:
 ```
 sudo systemctl status jenkins
