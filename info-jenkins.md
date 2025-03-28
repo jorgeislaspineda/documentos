@@ -42,7 +42,7 @@ jenkins.service - Jenkins Continuous Integration Server
              └─7496 /usr/bin/java -Djava.awt.headless=true -jar /usr/share/java/jenkins.war --webroot=/var/cache/jenkins/war --httpPort=8080
 
 Mar 21 20:30:37 LnxVM098203 jenkins[7496]: 3e76d501c6c34d7ba08775d3042c2e97
-`#0969DA`Mar 21 20:30:37 LnxVM098203 jenkins[7496]: This may also be found at: /var/lib/jenkins/secrets/initialAdminPassword
+Mar 21 20:30:37 LnxVM098203 jenkins[7496]: This may also be found at: /var/lib/jenkins/secrets/initialAdminPassword[^1]
 Mar 21 20:30:37 LnxVM098203 jenkins[7496]: *************************************************************
 Mar 21 20:30:37 LnxVM098203 jenkins[7496]: *************************************************************
 Mar 21 20:30:37 LnxVM098203 jenkins[7496]: *************************************************************
@@ -58,3 +58,8 @@ Mar 21 20:30:46 LnxVM098203 jenkins[7496]: 2025-03-21 20:30:46.002+0000 [id=46] 
 jislas@LnxServer1:~$ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 3e76d501c6c34d7ba08775d3042c2e97
 ```
+[^1]: Password
+>[!NOTE]
+>Visit de oficial jenkins site for more details.
+[!IMPORTANT]
+>https://www.jenkins.io/doc/book/installing/linux/#debianubuntu.
