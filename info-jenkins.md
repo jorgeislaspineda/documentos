@@ -58,7 +58,14 @@ Mar 21 20:30:46 LnxVM098203 jenkins[7496]: 2025-03-21 20:30:46.002+0000 [id=46] 
 jislas@LnxServer1:~$ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 3e76d501c6c34d7ba08775d3042c2e97
 ```
-![alt text](https://github.com/jorgeislaspineda/documentos/1.png?raw=true)
+<img width="996" alt="Image" src="https://github.com/user-attachments/assets/ee044ae9-e279-46fc-951b-ce4d4658e9c3" />
+<img width="993" alt="Image" src="https://github.com/user-attachments/assets/94fae293-e32c-4c90-b0b4-8b84d2355754" />
+<img width="987" alt="Image" src="https://github.com/user-attachments/assets/ab5d49ff-df29-4704-919b-1a2dbf6c0ac8" />
+<img width="991" alt="Image" src="https://github.com/user-attachments/assets/e8346e5c-db1b-4965-af71-eb214ce0d243" />
+<img width="993" alt="Image" src="https://github.com/user-attachments/assets/33bc5f7b-eae6-4b2f-a0bf-7a0382e5d0ae" />
+<img width="1435" alt="Image" src="https://github.com/user-attachments/assets/1ce89e67-00e5-4f65-8d7b-f700c8ce8d4a" />
+<img width="1433" alt="Image" src="https://github.com/user-attachments/assets/ac223686-0f35-46d9-9307-d68c4621eaa8" />
+<img width="1433" alt="Image" src="https://github.com/user-attachments/assets/f78fe7a5-f5ff-43d4-8e3b-2078f163c578" />
 
 >[!NOTE]
 >Visit the oficial jenkins site for more details.
