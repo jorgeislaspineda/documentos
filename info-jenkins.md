@@ -58,7 +58,7 @@ Mar 21 20:30:46 LnxVM098203 jenkins[7496]: 2025-03-21 20:30:46.002+0000 [id=46] 
 jislas@LnxServer1:~$ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 3e76d501c6c34d7ba08775d3042c2e97
 ```
-
+![alt text](https://github.com/jorgeislaspineda/documentos/main/1.png?raw=true)
 
 >[!NOTE]
 >Visit the oficial jenkins site for more details.
