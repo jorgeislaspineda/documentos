@@ -25,7 +25,7 @@ sudo systemctl enable jenkins
 sudo systemctl start jenkins
 ```
 
-You can check the status of the Jenkins service using the command:
+**Check jenkins status:**
 ```
 sudo systemctl status jenkins
 ```
@@ -42,7 +42,7 @@ jenkins.service - Jenkins Continuous Integration Server
              └─7496 /usr/bin/java -Djava.awt.headless=true -jar /usr/share/java/jenkins.war --webroot=/var/cache/jenkins/war --httpPort=8080
 
 Mar 21 20:30:37 LnxVM098203 jenkins[7496]: 3e76d501c6c34d7ba08775d3042c2e97
-Mar 21 20:30:37 LnxVM098203 jenkins[7496]: This may also be found at: /var/lib/jenkins/secrets/initialAdminPassword
+**Mar 21 20:30:37 LnxVM098203 jenkins[7496]: This may also be found at: /var/lib/jenkins/secrets/initialAdminPassword**
 Mar 21 20:30:37 LnxVM098203 jenkins[7496]: *************************************************************
 Mar 21 20:30:37 LnxVM098203 jenkins[7496]: *************************************************************
 Mar 21 20:30:37 LnxVM098203 jenkins[7496]: *************************************************************
