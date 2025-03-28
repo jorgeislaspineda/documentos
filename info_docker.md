@@ -1,7 +1,7 @@
 
-**Dockerization**\
+**Dockerization**
 
-**Create docker iamge**\
+**Create docker iamge**
 
 ```
 docker build -t my-flask-image:latest .
