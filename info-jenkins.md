@@ -61,7 +61,7 @@ jislas@LnxServer1:~$ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 
 >[!NOTE]
->Visit de oficial jenkins site for more details.
+>Visit the oficial jenkins site for more details.
 
 >[!IMPORTANT]
 >https://www.jenkins.io/doc/book/installing/linux/#debianubuntu.
